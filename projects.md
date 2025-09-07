@@ -3,8 +3,6 @@ title: Projects
 layout: page
 ---
 
-# Projects
-
 ## Quote Generator Web Application
 Interactive quotes app with refresh/explore features.  
 **Stack:** React, TypeScript, Vite, TailwindCSS, DummyJSON API  
