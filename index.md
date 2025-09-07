@@ -4,8 +4,11 @@ layout: page
 permalink: /
 ---
 
-# Hi, I'm Tassen
-CS @ Boise State (ML emphasis).
+# Hi, I'm Tassen 👋
+
+<img src="./tassenimageee.jpg" alt="Tassen Raihan Trima" width="200" style="border-radius:50%">
+
+Sophomore CS student @ Boise State (Machine Learning emphasis).
 
 - **Skills:** Python, Java, SQL, HTML, React, Angular, Node.js, Git
 - **Focus:** Web scraping, NLP, data analysis
