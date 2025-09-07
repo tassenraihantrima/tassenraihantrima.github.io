@@ -11,7 +11,7 @@ permalink: /
 # Hi, I'm Tassen 👋
 
 Sophomore CS student @ Boise State (Machine Learning emphasis).  
-I build web apps, NLP projects, and love working with data.
+I enjoy exploring web development, NLP, and data analysis as I grow my skills.
 
 </div>
 
