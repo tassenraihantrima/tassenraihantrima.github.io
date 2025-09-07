@@ -3,8 +3,6 @@ title: Resume
 layout: page
 ---
 
-# Resume
-
 - **PDF:** [Download resume](./TASSEN%20RAIHAN%20TRIMA_resume.pdf)
 
 ## Snapshot
