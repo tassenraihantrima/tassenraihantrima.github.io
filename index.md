@@ -8,7 +8,7 @@ permalink: /
 
 <img src="./tassenimageee.jpg" alt="Tassen Raihan Trima" width="200" style="border-radius:50%; margin-bottom:12px">
 
-# Hi, I'm Tassen 👋
+# Hi, I'm Tassen
 
 Sophomore CS student @ Boise State (Machine Learning emphasis).  
 I enjoy exploring web development, NLP, and data analysis as I grow my skills.
