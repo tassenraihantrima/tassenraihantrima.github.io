@@ -4,7 +4,7 @@ layout: page
 permalink: /
 ---
 
-<div style="text-align:center">
+<div style="text-align:center" markdown="1">
 
 <img src="./tassenimageee.jpg" alt="Tassen Raihan Trima" width="200" style="border-radius:50%; margin-bottom:12px">
 
