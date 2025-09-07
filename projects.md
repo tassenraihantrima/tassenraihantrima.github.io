@@ -16,6 +16,6 @@ Scraped ~27k Reddit posts/comments on Google LLM & Gemini; NLP + visualizations.
 **Repo:** <https://github.com/tassenraihantrima/Webscraping>
 
 ## Scrabble Showdown
-Real-time scoring Scrabble-like game; **Rapid Fire Coder Award**.  
+Real-time scoring Scrabble-like game; Rapid Fire Coder Award.  
 **Stack:** Python, Git, VS Code  
 **Repo:** <https://github.com/tassenraihantrima/beginner-projects-python/blob/main/scrabblegame.py>
