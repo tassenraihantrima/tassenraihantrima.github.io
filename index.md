@@ -32,5 +32,4 @@ I build web apps, NLP projects, and love working with data.
 
 ---
 
-👉 Check out my [Projects](/projects/) and [Research](/research/).  
-Grab my [Resume](/resume/) or [Contact](/contact/) me.
+👉 Check out my [Projects](/projects/) and [Research](/research/). Grab my [Resume](/resume/) or [Contact](/contact/) me.
