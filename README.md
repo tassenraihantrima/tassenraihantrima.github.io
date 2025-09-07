@@ -1,6 +1,6 @@
 # 🌐 Tassen Raihan Trima — Portfolio Website
 
-This repository contains the source code for my personal portfolio website, built with [GitHub Pages](https://pages.github.com/) and the [Minima Jekyll theme](https://github.com/jekyll/minima).
+This repository contains the source code for my personal portfolio website.
 
 🔗 **Live site:** [https://tassenraihantrima.github.io](https://tassenraihantrima.github.io)
 
