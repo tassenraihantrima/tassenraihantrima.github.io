@@ -1,11 +1,11 @@
 ---
+title: Home
 layout: page
 permalink: /
 ---
-
-# Hi, I'm Tassen 👋
-
+<div style="text-align:center">
 <img src="./tassenimageee.jpg" alt="Tassen Raihan Trima" width="200" style="border-radius:50%">
+# Hi, I'm Tassen 👋
 
 Sophomore CS student @ Boise State (Machine Learning emphasis).
 
