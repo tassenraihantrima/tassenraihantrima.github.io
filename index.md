@@ -32,4 +32,3 @@ I enjoy exploring web development, NLP, and data analysis as I grow my skills.
 
 ---
 
-👉 Check out my [Projects](/projects/) and [Research](/research/). Grab my [Resume](/resume/) or [Contact](/contact/) me.
