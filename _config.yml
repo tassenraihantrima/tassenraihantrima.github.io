@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
-title: Tassen Raihan Trima's Homepage
-description: Bookmark this page to see my projects and updates!
+title: Tassen Raihan Trima
+description: CS @ Boise State • ML emphasis • Web, NLP, and data projects
+theme: minima
+
+header_pages:
+  - index.md
+  - projects.md
+  - research.md
+  - resume.md
+  - contact.md
+
+minima:
+  social_links:
+    - platform: github
+      user_url: https://github.com/tassenraihantrima
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/tassen-raihan-trima-9995aa1b9/
