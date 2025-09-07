@@ -5,8 +5,7 @@ layout: page
 
 # Resume
 
-- **PDF (recommended):** [Download my resume](./Tassen_Raihan_Trima.pdf)
-- **Alternate PDF:** [Research resume](./TASSEN%20RAIHAN%20TRIMA_resume.pdf)
+- **PDF:** [Download resume](./TASSEN%20RAIHAN%20TRIMA_resume.pdf)
 
 ## Snapshot
 **Education:** B.S. CS (ML Emphasis), Boise State University — GPA 3.75 (May 2028)  
