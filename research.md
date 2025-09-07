@@ -3,7 +3,7 @@ title: Research
 layout: page
 ---
 
-# Research (Work-in-Progress)
+# (Work-in-Progress)
 
 - **Name Gender Inference in Text: Methods, Applications, and Challenges** — Sudeshna Das, Namita Bajpai, Sayantan Saha, Debjani Mazumder, **Tassen Raihan Trima**, Sahithi Lakamana, Jiaul H Paik, Abeed Sarker
 - **Thematic Analysis of Reddit Chatter On GLP-1 Receptor Agonists** — Sudeshna Das, **Tassen Raihan Trima**, Yuting Guo, Sahithi Lakamana, Abeed Sarker
