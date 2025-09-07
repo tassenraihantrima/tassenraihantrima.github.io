@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Hi, I'm Tassen
-CS @ Boise State (ML emphasis). I build web, NLP, and data apps.
+CS @ Boise State (ML emphasis).
 
 - **Skills:** Python, Java, SQL, HTML, React, Angular, Node.js, Git
 - **Focus:** Web scraping, NLP, data analysis
